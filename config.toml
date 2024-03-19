@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://modularpress.net"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Modular Press"
 theme         = "roxo-hugo"
 summarylength = 25
 
